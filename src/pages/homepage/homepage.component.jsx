@@ -1,8 +1,8 @@
 import React from 'react'
 import './homepage.styles.scss'
-// Fcntional component because we dont need
-// any lifecycle methods, nor do we need to 
-// store state.
+// I used a Functional component because
+// we dont need any lifecycle methods
+// nor do we need to store state.
 const Homepage = () => (
     <div className="homepage">
         <div className="directory-menu">
